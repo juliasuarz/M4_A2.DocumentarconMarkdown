@@ -14,6 +14,18 @@
     
 4. ¿Qué es una herramienta ofimática?
 
-    Las herramientas permiten idear, elaborar, ceder, guardar todas las informaciones necesarias en una oficina, como procesamiento de texto, base de datos, hojas de cálculo, programas de correo electrónico, suite ofimática, calculadora, agendas, entre otros programas.
+    Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+presentación
     
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ ):
+
+| Aplicaciones | Visto |
+| - |:-:|
+| Google Docs |:white_check_mark:|
+| Google Slides |:white_check_mark:|
+| Google Sheets |:white_check_mark:|
+| Google Calendar |:calendar:|
+| Google Meet |:computer:|
+| ... | ... |
+
+
