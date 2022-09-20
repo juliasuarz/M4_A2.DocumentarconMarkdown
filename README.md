@@ -28,7 +28,7 @@ presentación
 | Google Meet |:computer:|
 | ... | ... |
 
-6.¿Qué es ```HTML``` ?
+6. ¿Qué es ```HTML``` ?
 
    Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
   `````
@@ -45,6 +45,6 @@ presentación
 </html>
 ``````
 
-7.¿Qué es ```CSS``` ?
+7. ¿Qué es ```CSS``` ?
 
 
