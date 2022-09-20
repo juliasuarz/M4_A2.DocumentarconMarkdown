@@ -47,4 +47,7 @@ presentación
 
 7. ¿Qué es ```CSS``` ?
 
+    CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.
+
 
