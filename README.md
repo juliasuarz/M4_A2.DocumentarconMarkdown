@@ -52,7 +52,7 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![foto](https://github.com/juliasuarz/M4_A2.DocumentarconMarkdown/blob/main/134021274-48868d7a-0844-40cb-adb2-cb4686c8f4b3.png?raw=true)
+    ![foto](https://github.com/juliasuarz/M4_A2.DocumentarconMarkdown/blob/main/134021274-48868d7a-0844-40cb-adb2-cb4686c8f4b3.png?raw=true)
 
 
 
