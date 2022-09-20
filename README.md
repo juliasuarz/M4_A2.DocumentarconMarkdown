@@ -16,4 +16,4 @@
 
     Las herramientas permiten idear, elaborar, ceder, guardar todas las informaciones necesarias en una oficina, como procesamiento de texto, base de datos, hojas de cálculo, programas de correo electrónico, suite ofimática, calculadora, agendas, entre otros programas.
     
-5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ )
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ ):
