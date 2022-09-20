@@ -52,7 +52,7 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![alt text](https://github.com/img/icon48.png "Título opcional de la imagen")
+![foto](Captura de pantalla 2022-09-20 a las 11.51.18.png )
 
 
 
